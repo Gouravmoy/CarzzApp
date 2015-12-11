@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CarzzApp</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
